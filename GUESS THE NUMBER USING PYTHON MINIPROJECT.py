@@ -1,4 +1,4 @@
-# guessing the number
+#guess the number
 
 import random
 
